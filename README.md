@@ -45,7 +45,7 @@ Several techniques have been developed to make hyperparameter search more effici
 
 **1. Grid Search**
 Grid search is one of the most basic methods for hyperparameter optimization. It involves specifying a set of possible values for each hyperparameter and evaluating the model performance for every combination of these values. While grid search is simple and effective for problems with a small number of hyperparameters, it becomes impractical as the number of hyperparameters increases due to the exponential growth of possible combinations.
-
+![i1](https://drive.google.com/uc?id=1kiK0V5LuDweoxS88tt6gEAdYJijQUais)
 **2. Random Search**
 Random search, as the name implies, involves randomly selecting values for the hyperparameters and evaluating model performance. Surprisingly, random search has been shown to outperform grid search in many cases, especially when only a small subset of hyperparameters significantly affects model performance. This is because random search can explore the hyperparameter space more efficiently, without getting bogged down in unimportant regions.
 
