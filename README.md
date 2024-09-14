@@ -76,4 +76,5 @@ Spearmint: Focuses on Bayesian optimization and has been used effectively in a w
 Optuna: A versatile hyperparameter optimization framework that supports a variety of optimization techniques, inclusive of grid search, random seek, and Bayesian optimization.
 Conclusion: The Future of Hyperparameter Search
 Automating hyperparameter seek is a important step towards fully self sufficient device studying structures. As the complexity of machine mastering models keeps to increase, so too does the importance of efficient hyperparameter tuning strategies.
-
+### Resource
+https://arxiv.org/pdf/1502.02127v2
